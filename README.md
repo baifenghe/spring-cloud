@@ -6,6 +6,17 @@
 
 
 
+## 说明
+
+**eureka**
+
+- 访问地址：http://localhost:1001/
+- 客户端注册地址： http://localhost:1001/eureka/ 
+
+
+
+
+
 ## 感谢
 
 - [Spring For All](http://www.spring4all.com)  
