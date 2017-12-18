@@ -8,10 +8,16 @@
 
 ## 说明
 
-**eureka**
+**eureka-server**
 
 - 访问地址：http://localhost:1001/
 - 客户端注册地址： http://localhost:1001/eureka/ 
+
+
+**eureka-consumer**
+
+- eureka-consumer、eureka-consumer-ribbon、eureka-consumer-feign
+- 访问地址：<http://localhost:2101/consumer> 
 
 
 
