@@ -19,7 +19,23 @@
 - eureka-consumer、eureka-consumer-ribbon、eureka-consumer-feign
 - 访问地址：<http://localhost:2101/consumer> 
 
+**Spring Cloud Config**
 
+- 相关接口：
+- <http://localhost:2001/info> 
+
+
+
+**Hystrix**
+
+- 访问地址：http://localhost:1301/hystrix
+- 首页输入内容：http://localhost:2101/hystrix.stream
+
+
+
+**Spring Cloud Zuul**
+
+- <http://localhost:1101/eureka-client/dc> 
 
 
 
